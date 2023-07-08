@@ -4,9 +4,9 @@ Welcome to the Zuri Training Full Stack Web Development Program! This program is
 
 ## Projects
 
-- **[django-hello-world](https://github.com/GideonBature/zuri_training-projects/tree/main/django-hello-world)**: A Django project that introduces you to the basics of Django framework and helps you understand how to set up a Django project. It provides a solid foundation for building web applications using Django.
+- **[django-hello-world](https://github.com/GideonBature/zuri_training-projects/tree/main/-django-hello-world)**: A Django project that introduces you to the basics of Django framework and helps you understand how to set up a Django project. It provides a solid foundation for building web applications using Django.
 
-- **[Django-CRUD](https://github.com/GideonBature/zuri_training-projects/tree/main/Django-CRUD)**: This project focuses on creating, reading, updating, and deleting (CRUD) functionality in Django. You will learn how to interact with a database and build dynamic web applications.
+- **[Django-CRUD](https://github.com/GideonBature/zuri_training-tasks/tree/main/Django-CRUD)**: This project focuses on creating, reading, updating, and deleting (CRUD) functionality in Django. You will learn how to interact with a database and build dynamic web applications.
 
 - **[Python_CLI_Calculator](https://github.com/GideonBature/zuri_training-projects/tree/main/Python_CLI_Calculator)**: In this project, you will build a Command-Line Interface (CLI) calculator using Python. It will enhance your understanding of fundamental programming concepts and strengthen your problem-solving skills.
 
